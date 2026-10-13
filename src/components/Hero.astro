@@ -1,0 +1,63 @@
+---
+import site from '../data/site.json';
+---
+
+<section class="relative pt-12 pb-16 sm:pt-20 sm:pb-24 px-4 sm:px-6 max-w-4xl mx-auto text-center">
+  <!-- Soft background aura -->
+  <div class="absolute -top-10 left-1/2 -translate-x-1/2 w-72 h-72 sm:w-96 sm:h-96 bg-gradient-to-tr from-[var(--color-blush)] via-[var(--color-rose-light)]/40 to-[var(--color-sage-light)]/50 rounded-full blur-3xl -z-10 pointer-events-none opacity-70"></div>
+
+  <!-- Avatar container -->
+  <div class="relative inline-block mb-6 group">
+    <div class="w-32 h-32 sm:w-40 sm:h-40 rounded-full p-1.5 bg-gradient-to-br from-[var(--color-rose)] via-[var(--color-blush)] to-[var(--color-sage)] shadow-card transition-transform duration-300 group-hover:scale-105">
+      <img
+        src={site.avatar}
+        alt={`Ảnh đại diện của ${site.name}`}
+        width="160"
+        height="160"
+        loading="eager"
+        decoding="async"
+        class="w-full h-full object-cover rounded-full bg-[var(--color-blush)]"
+      />
+    </div>
+    <span class="absolute bottom-1 right-2 text-2xl sm:text-3xl select-none filter drop-shadow-sm animate-bounce" style="animation-duration: 3s;">
+      ✨
+    </span>
+  </div>
+
+  <!-- Tagline badge -->
+  <div class="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-blush)]/90 border border-[var(--color-rose)]/30 text-xs sm:text-sm font-medium text-[var(--color-cocoa)] mb-4">
+    <span class="w-2 h-2 rounded-full bg-[var(--color-rose)] animate-ping"></span>
+    <span>@{site.nickname}</span>
+    <span class="text-[var(--color-muted)]">•</span>
+    <span>Nhật ký ảnh mỗi ngày</span>
+  </div>
+
+  <!-- Name & Headline -->
+  <h1 class="text-3xl sm:text-5xl font-bold tracking-tight text-[var(--color-cocoa)] mb-4">
+    Góc nhỏ của <span class="text-[var(--color-rose-dark)]">{site.name}</span>
+  </h1>
+
+  <p class="font-handwriting text-2xl sm:text-3xl text-[var(--color-rose-dark)] mb-6 max-w-xl mx-auto leading-relaxed">
+    "{site.tagline}"
+  </p>
+
+  <!-- CTA Buttons -->
+  <div class="flex items-center justify-center gap-4">
+    <a
+      href="#gallery"
+      class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-rose)] hover:bg-[var(--color-rose-dark)] text-white font-medium text-sm sm:text-base shadow-soft hover:shadow-hover transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0"
+    >
+      <span>Xem ảnh</span>
+      <svg class="w-4 h-4 transition-transform group-hover:translate-y-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+      </svg>
+    </a>
+
+    <a
+      href="#about"
+      class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-white/80 hover:bg-white text-[var(--color-cocoa)] border border-[var(--color-rose)]/25 font-medium text-sm sm:text-base shadow-soft hover:shadow-card transition-all duration-200"
+    >
+      <span>Về mình</span>
+    </a>
+  </div>
+</section>

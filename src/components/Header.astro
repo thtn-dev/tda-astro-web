@@ -1,0 +1,38 @@
+---
+import site from '../data/site.json';
+---
+
+<header class="sticky top-0 z-40 w-full glass-nav transition-all duration-300">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <!-- Logo -->
+    <a href="#" class="group flex items-center gap-2 no-underline">
+
+      <span class="text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-cocoa)] group-hover:text-[var(--color-rose)] transition-colors duration-200">
+        {site.name}
+      </span>
+      <span class="inline-block text-base animate-pulse">🌸</span>
+    </a>
+
+    <!-- Navigation links -->
+    <nav class="flex items-center gap-2 sm:gap-6 text-sm font-medium">
+      <a
+        href="#about"
+        class="px-3 py-1.5 rounded-full text-[var(--color-muted)] hover:text-[var(--color-cocoa)] hover:bg-[var(--color-blush)]/70 transition-all duration-200"
+      >
+        Giới thiệu
+      </a>
+      <a
+        href="#gallery"
+        class="px-3 py-1.5 rounded-full text-[var(--color-muted)] hover:text-[var(--color-cocoa)] hover:bg-[var(--color-blush)]/70 transition-all duration-200"
+      >
+        Kho ảnh
+      </a>
+      <a
+        href="#contact"
+        class="px-3 py-1.5 rounded-full text-[var(--color-muted)] hover:text-[var(--color-cocoa)] hover:bg-[var(--color-blush)]/70 transition-all duration-200"
+      >
+        Kết nối
+      </a>
+    </nav>
+  </div>
+</header>

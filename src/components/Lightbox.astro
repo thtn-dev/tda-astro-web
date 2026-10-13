@@ -1,0 +1,89 @@
+---
+// Native HTML5 <dialog> Lightbox component
+---
+
+<dialog
+  id="gallery-lightbox"
+  class="fixed inset-0 z-50 p-0 m-0 w-full h-full max-w-none max-h-none bg-transparent border-0 outline-none backdrop:bg-black/85 backdrop:backdrop-blur-md hidden open:flex flex-col items-center justify-center select-none"
+  aria-modal="true"
+  aria-label="Xem ảnh phóng to"
+>
+  <div class="relative w-full h-full flex flex-col items-center justify-center p-3 sm:p-6" id="lightbox-backdrop">
+    <!-- Top toolbar: Counter & Close button -->
+    <div class="absolute top-4 left-4 right-4 flex items-center justify-between z-20 pointer-events-none">
+      <div
+        id="lightbox-counter"
+        class="pointer-events-auto px-3.5 py-1.5 rounded-full bg-white/20 backdrop-blur-md text-white text-xs sm:text-sm font-semibold tracking-wider shadow-sm"
+      >
+        1 / 1
+      </div>
+
+      <button
+        id="lightbox-close-btn"
+        type="button"
+        aria-label="Đóng (Escape)"
+        class="pointer-events-auto w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-white/20 hover:bg-white/35 active:scale-95 text-white backdrop-blur-md flex items-center justify-center transition-all duration-200 shadow-sm cursor-pointer"
+      >
+        <svg class="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Navigation Prev button -->
+    <button
+      id="lightbox-prev-btn"
+      type="button"
+      aria-label="Ảnh trước (Mũi tên trái)"
+      class="absolute left-2 sm:left-6 top-1/2 -translate-y-1/2 z-20 w-11 h-11 sm:w-13 sm:h-13 rounded-full bg-white/20 hover:bg-white/35 active:scale-95 text-white backdrop-blur-md flex items-center justify-center transition-all duration-200 shadow-md cursor-pointer"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+
+    <!-- Navigation Next button -->
+    <button
+      id="lightbox-next-btn"
+      type="button"
+      aria-label="Ảnh kế tiếp (Mũi tên phải)"
+      class="absolute right-2 sm:right-6 top-1/2 -translate-y-1/2 z-20 w-11 h-11 sm:w-13 sm:h-13 rounded-full bg-white/20 hover:bg-white/35 active:scale-95 text-white backdrop-blur-md flex items-center justify-center transition-all duration-200 shadow-md cursor-pointer"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+
+    <!-- Main display image & caption card -->
+    <div class="relative max-w-[92vw] max-h-[82vh] flex flex-col items-center justify-center z-10" id="lightbox-content">
+      <div class="relative overflow-hidden rounded-2xl shadow-2xl flex items-center justify-center bg-black/30">
+        <!-- Spinner while image switches -->
+        <div id="lightbox-spinner" class="absolute inset-0 flex items-center justify-center bg-black/40 text-rose-300 opacity-0 pointer-events-none transition-opacity duration-200">
+          <svg class="w-8 h-8 animate-spin" viewBox="0 0 24 24" fill="none">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+          </svg>
+        </div>
+
+        <img
+          id="lightbox-image"
+          src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"
+          alt=""
+          class="max-w-[88vw] max-h-[72vh] object-contain rounded-2xl transition-all duration-300 select-none"
+        />
+
+      </div>
+
+      <!-- Caption & Date Badge -->
+      <div id="lightbox-caption-card" class="mt-3 text-center px-5 py-2.5 rounded-2xl bg-black/50 backdrop-blur-md text-white max-w-xl mx-auto shadow-md">
+        <p id="lightbox-caption" class="text-sm sm:text-base font-medium leading-snug">
+        </p>
+        <div class="flex items-center justify-center gap-2 text-xs text-white/70 mt-1">
+          <span id="lightbox-date"></span>
+          <span id="lightbox-tags" class="hidden sm:inline"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</dialog>

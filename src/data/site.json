@@ -1,0 +1,45 @@
+{
+  "title": "Mây Mây • Nhật ký ảnh nhỏ",
+  "description": "Góc nhỏ lưu giữ những khoảnh khắc nhẹ nhàng, ấm áp và những điều bình dị quanh mình.",
+  "name": "Mây Mây",
+  "nickname": "maymay.diary",
+  "tagline": "Gom từng tia nắng nhỏ, dệt nên những ngày bình yên 🌿✨",
+  "bio": [
+    "Xin chào, mình là Mây! Đây là góc nhỏ để mình lưu lại những thước phim dịu dàng của cuộc sống.",
+    "Mình yêu việc ngắm nhìn ánh hoàng hôn, hương vị một ly matcha latte ấm nóng, và cảm giác bắt trọn những khoảnh khắc vụn vặt nhưng lấp lánh qua ống kính máy ảnh.",
+    "Hi vọng những bức ảnh ở đây sẽ đem lại cho bạn một chút an yên sau một ngày dài bận rộn 🌸"
+  ],
+  "avatar": "/images/avatar.jpg",
+  "hobbies": [
+    "📷 Nhiếp ảnh đường phố",
+    "☕ Cà phê sáng",
+    "🥐 Làm bánh ngọt",
+    "🪴 Trồng sen đá",
+    "📖 Đọc sách chiều mưa",
+    "🎨 Vẽ màu nước",
+    "🎵 Indie acoustic"
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "icon": "instagram"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://tiktok.com",
+      "icon": "tiktok"
+    },
+    {
+      "name": "Threads",
+      "url": "https://threads.net",
+      "icon": "threads"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:maymay@example.com",
+      "icon": "mail"
+    }
+  ],
+  "copyright": "© 2026 Mây Mây. Tự tay gom nhặt bằng tình yêu và sự dịu dàng 🎀"
+}

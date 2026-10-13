@@ -9,9 +9,21 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "photos": "tsx scripts/build-photos.ts",
+    "photos:seed": "tsx scripts/seed-sample-photos.ts",
+    "test": "tsx tests/verify-all.ts && node tests/browser-interaction.test.mjs",
+    "test:unit": "tsx tests/verify-all.ts",
+    "test:browser": "node tests/browser-interaction.test.mjs"
+
   },
   "dependencies": {
-    "astro": "^7.3.8"
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/quicksand": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.3.8",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15"
   }
 }

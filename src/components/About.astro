@@ -1,0 +1,57 @@
+---
+import site from '../data/site.json';
+---
+
+<section id="about" class="py-16 sm:py-20 px-4 sm:px-6 max-w-4xl mx-auto scroll-mt-20">
+  <div class="bg-white/80 backdrop-blur-md rounded-3xl p-6 sm:p-10 border border-[var(--color-rose)]/20 shadow-card">
+    <div class="flex flex-col md:flex-row items-center gap-8 md:gap-12">
+      <!-- Decorative miniature illustration or framed avatar -->
+      <div class="relative flex-shrink-0 group">
+        <div class="w-36 h-36 sm:w-44 sm:h-44 rounded-2xl overflow-hidden border-2 border-white shadow-soft transform -rotate-2 group-hover:rotate-0 transition-transform duration-300">
+          <img
+            src={site.avatar}
+            alt={site.name}
+            width="176"
+            height="176"
+            loading="lazy"
+            decoding="async"
+            class="w-full h-full object-cover"
+          />
+        </div>
+        <div class="absolute -bottom-3 -right-3 bg-[var(--color-blush)] text-[var(--color-cocoa)] px-3 py-1 rounded-full text-xs font-semibold border border-[var(--color-rose)]/30 shadow-sm font-handwriting text-base">
+          Hello there! 🌿
+        </div>
+      </div>
+
+      <!-- About bio text -->
+      <div class="flex-1 text-center md:text-left">
+        <div class="inline-block font-handwriting text-2xl text-[var(--color-rose-dark)] mb-1">
+          Đôi nét về mình 🎀
+        </div>
+        <h2 class="text-2xl sm:text-3xl font-bold text-[var(--color-cocoa)] mb-4">
+          Từng khoảnh khắc, từng ngày dịu dàng
+        </h2>
+
+        <div class="space-y-3 text-[var(--color-cocoa)]/90 text-sm sm:text-base leading-relaxed mb-6 font-normal">
+          {site.bio.map((paragraph) => (
+            <p>{paragraph}</p>
+          ))}
+        </div>
+
+        <!-- Hobbies chips -->
+        <div>
+          <div class="text-xs uppercase font-bold tracking-wider text-[var(--color-muted)] mb-3">
+            Những điều mình yêu thích
+          </div>
+          <div class="flex flex-wrap gap-2 justify-center md:justify-start">
+            {site.hobbies.map((hobby) => (
+              <span class="inline-flex items-center px-3 py-1.5 rounded-full text-xs sm:text-sm font-medium bg-[var(--color-cream)] hover:bg-[var(--color-blush)] text-[var(--color-cocoa)] border border-[var(--color-rose)]/20 transition-all duration-200 hover:scale-105 shadow-sm">
+                {hobby}
+              </span>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,172 @@
+---
+import rawPhotos from '../data/photos.json';
+import type { Photo } from '../types/gallery';
+import Lightbox from './Lightbox.astro';
+
+const allPhotos = rawPhotos as Photo[];
+const PAGE_SIZE = 18;
+const page1Photos = allPhotos.slice(0, PAGE_SIZE);
+const totalPages = Math.ceil(allPhotos.length / PAGE_SIZE) || 1;
+
+// SSG distribution for initial render (4 columns for desktop)
+const initialColsCount = 4;
+const columns: Photo[][] = Array.from({ length: initialColsCount }, () => []);
+const colHeights: number[] = Array.from({ length: initialColsCount }, () => 0);
+
+page1Photos.forEach((photo) => {
+  const aspect = photo.height / photo.width;
+  let minCol = 0;
+  for (let i = 1; i < colHeights.length; i++) {
+    if (colHeights[i] < colHeights[minCol]) {
+      minCol = i;
+    }
+  }
+  columns[minCol].push(photo);
+  colHeights[minCol] += aspect + 0.04;
+});
+
+// Calculate global index for each photo in page 1
+const photoIndexMap = new Map<string, number>();
+page1Photos.forEach((p, idx) => {
+  photoIndexMap.set(p.id, idx);
+});
+---
+
+<section id="gallery" class="py-12 sm:py-16 px-4 sm:px-6 max-w-7xl mx-auto scroll-mt-20 w-full">
+  <!-- Section Title -->
+  <div class="text-center mb-10 sm:mb-14">
+    <span class="font-handwriting text-2xl sm:text-3xl text-[var(--color-rose-dark)] block mb-1">
+      Những khoảnh khắc lấp lánh 🌸
+    </span>
+    <h2 class="text-3xl sm:text-4xl font-bold tracking-tight text-[var(--color-cocoa)]">
+      Góc ảnh của Mây
+    </h2>
+    <p class="text-sm sm:text-base text-[var(--color-muted)] max-w-md mx-auto mt-2 font-normal">
+      Mỗi bức ảnh là một mẩu chuyện nhỏ, một ngày bình yên mà mình muốn lưu giữ mãi mãi.
+    </p>
+  </div>
+
+  <!-- Masonry Gallery Container -->
+  <div id="gallery-section" class="w-full">
+    <div id="masonry-columns" class="flex gap-3 sm:gap-4 w-full items-start">
+      {columns.map((colPhotos) => (
+        <div class="masonry-col flex flex-col gap-3 sm:gap-4 flex-1 min-w-0">
+          {colPhotos.map((photo) => {
+            const globalIdx = photoIndexMap.get(photo.id) ?? 0;
+            const isEager = globalIdx < 6;
+            const isHighPriority = globalIdx === 0;
+            const aspectPercent = ((photo.height / photo.width) * 100).toFixed(2);
+
+            return (
+              <article
+                class="photo-card group relative w-full rounded-2xl overflow-hidden cursor-pointer shadow-soft hover:shadow-hover transition-all duration-300 transform hover:-translate-y-1 select-none focus:outline-none focus:ring-2 focus:ring-[var(--color-rose)]"
+                data-id={photo.id}
+                data-index={globalIdx}
+                data-width={photo.width}
+                data-height={photo.height}
+                tabindex="0"
+                role="button"
+                aria-label={`Xem ảnh: ${photo.caption}`}
+              >
+                <div
+                  class="relative w-full overflow-hidden"
+                  style={`padding-bottom: ${aspectPercent}%; background-color: ${photo.color}`}
+                >
+                  <!-- Base64 Blur Placeholder -->
+                  <img
+                    src={photo.blurDataUrl}
+                    alt=""
+                    aria-hidden="true"
+                    class="blur-placeholder absolute inset-0 w-full h-full object-cover filter blur-sm scale-105 pointer-events-none transition-opacity duration-500"
+                  />
+
+                  <!-- High-Res Main Image -->
+                  <img
+                    src={photo.src}
+                    alt={photo.alt}
+                    loading={isEager ? 'eager' : 'lazy'}
+                    decoding="async"
+                    fetchpriority={isHighPriority ? 'high' : 'auto'}
+                    class="main-img absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-400"
+                    onload="this.classList.remove('opacity-0'); if(this.previousElementSibling) this.previousElementSibling.style.opacity='0';"
+                  />
+
+                  <!-- Soft gradient overlay & cute caption -->
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3 sm:p-4 text-white pointer-events-none">
+                    <p class="text-xs sm:text-sm font-semibold drop-shadow-sm line-clamp-2">
+                      {photo.caption}
+                    </p>
+                    {photo.date && (
+                      <span class="text-[11px] text-white/80 mt-1">
+                        {photo.date}
+                      </span>
+                    )}
+                  </div>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      ))}
+    </div>
+
+    <!-- Pre-paint column distributor: ensures mobile (2 cols) and tablet (3 cols) render with zero CLS on first frame -->
+    <script is:inline>
+      (function() {
+        try {
+          var w = window.innerWidth;
+          var targetCols = w < 640 ? 2 : (w < 1024 ? 3 : 4);
+          if (targetCols === 4) return;
+          var container = document.getElementById('masonry-columns');
+          if (!container) return;
+          var cards = Array.from(container.querySelectorAll('.photo-card'));
+          if (cards.length === 0) return;
+          container.innerHTML = '';
+          var cols = [];
+          var heights = [];
+          for (var i = 0; i < targetCols; i++) {
+            var col = document.createElement('div');
+            col.className = 'masonry-col flex flex-col gap-3 sm:gap-4 flex-1 min-w-0';
+            container.appendChild(col);
+            cols.push(col);
+            heights.push(0);
+          }
+          cards.forEach(function(card) {
+            var width = parseFloat(card.dataset.width) || 1;
+            var height = parseFloat(card.dataset.height) || 1;
+            var aspect = height / width;
+            var minCol = 0;
+            for (var j = 1; j < heights.length; j++) {
+              if (heights[j] < heights[minCol]) minCol = j;
+            }
+            cols[minCol].appendChild(card);
+            heights[minCol] += aspect + 0.04;
+          });
+        } catch (e) {}
+      })();
+    </script>
+
+    <!-- Infinite Scroll Sentinel -->
+    <div id="gallery-sentinel" class="w-full text-center min-h-[4rem] mt-6 flex items-center justify-center">
+      <div class="h-10"></div>
+    </div>
+  </div>
+
+
+  <!-- Initial SSG Page 1 JSON payload for client controller -->
+  <script
+    id="gallery-initial-data"
+    type="application/json"
+    set:html={JSON.stringify({
+      photos: page1Photos,
+      totalPages,
+      totalPhotos: allPhotos.length,
+    })}
+  />
+
+  <!-- Lightbox Modal -->
+  <Lightbox />
+</section>
+
+<!-- Vanilla TypeScript Client Controller -->
+<script src="../scripts/gallery.ts"></script>

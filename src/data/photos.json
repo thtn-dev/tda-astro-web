@@ -1,0 +1,962 @@
+[
+  {
+    "id": "photo-01",
+    "src": "/images/gallery/photo-01.jpg",
+    "width": 700,
+    "height": 700,
+    "alt": "Tia nắng sớm xuyên qua rèm cửa màu kem ☕",
+    "color": "#180808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EAB0QAAICAgMBAAAAAAAAAAAAAAECAAMRIQQFElH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/ABxxxLQXFzDew2pXWaAy4spwPrTBq7F618itMRi9o3oE0ocQOlC0pD//2Q==",
+    "caption": "Tia nắng sớm xuyên qua rèm cửa màu kem ☕",
+    "date": "2026-03-01",
+    "tags": [
+      "buoisang",
+      "nangsom",
+      "binhyen"
+    ]
+  },
+  {
+    "id": "photo-02",
+    "src": "/images/gallery/photo-02.jpg",
+    "width": 750,
+    "height": 750,
+    "alt": "Góc đọc sách nhỏ với ly matcha ấm 🍵",
+    "color": "#383838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEC/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQAEIRMiEiMxQVFhYv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AB5rmy3AUR4OVe62TdMTqtkHqMzNVDLbempp4HO/hwY7Ui7l1xATJKfrJNG5MC3/2Q==",
+    "caption": "Góc đọc sách nhỏ với ly matcha ấm 🍵",
+    "date": "2026-03-02",
+    "tags": [
+      "matcha",
+      "sach",
+      "cozy"
+    ]
+  },
+  {
+    "id": "photo-03",
+    "src": "/images/gallery/photo-03.jpg",
+    "width": 800,
+    "height": 800,
+    "alt": "Bó hoa tulip hồng ngọt ngào đón ngày mới 🌷",
+    "color": "#281808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAMEEjFBBRMhYtH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8Ae2YHhSe37R4NYnVr7ZGQ2mNgAQ01TZmgjSEcDgqftDuXS0IigJxO9TrHEf/Z",
+    "caption": "Bó hoa tulip hồng ngọt ngào đón ngày mới 🌷",
+    "date": "2026-03-03",
+    "tags": [
+      "hoa",
+      "tulip",
+      "pastel"
+    ]
+  },
+  {
+    "id": "photo-04",
+    "src": "/images/gallery/photo-04.jpg",
+    "width": 720,
+    "height": 720,
+    "alt": "Mèo con cuộn tròn ngủ say dưới nắng ấm 🐱",
+    "color": "#382828",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHxABAAEEAgMBAAAAAAAAAAAAAQIAAwQRBVEVISJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDHxdwcmIj89UlysY+PgkgSQ/u90LYuytXCXrY7quRkt0B73SFf/9k=",
+    "caption": "Mèo con cuộn tròn ngủ say dưới nắng ấm 🐱",
+    "date": "2026-03-04",
+    "tags": [
+      "meocon",
+      "sunshine",
+      "cute"
+    ]
+  },
+  {
+    "id": "photo-05",
+    "src": "/images/gallery/photo-05.jpg",
+    "width": 700,
+    "height": 700,
+    "alt": "Chiều hoàng hôn nhuộm màu mây hồng cam 🌇",
+    "color": "#185878",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQL/xAAdEAACAgIDAQAAAAAAAAAAAAABAgMRAAQSMUEi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAETEBAv/aAAwDAQACEQMRAD8AgQ/ZBZQvhA7xaBZHdYRYIsAEYHZVtew3GQeV3k6ZkmkKxyMrV3itpD5h/9k=",
+    "caption": "Chiều hoàng hôn nhuộm màu mây hồng cam 🌇",
+    "date": "2026-03-05",
+    "tags": [
+      "hoanghon",
+      "sky",
+      "clouds"
+    ]
+  },
+  {
+    "id": "photo-06",
+    "src": "/images/gallery/photo-06.jpg",
+    "width": 760,
+    "height": 760,
+    "alt": "Chiếc bánh croissant thơm lừng vị bơ 🥐",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIAEQMFMRIhIlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AERsWXkLUobBX4I+VA84ylLTyA71MobIh6qYD2YmhjiX/9k=",
+    "caption": "Chiếc bánh croissant thơm lừng vị bơ 🥐",
+    "date": "2026-03-06",
+    "tags": [
+      "bakery",
+      "croissant",
+      "food"
+    ]
+  },
+  {
+    "id": "photo-07",
+    "src": "/images/gallery/photo-07.jpg",
+    "width": 700,
+    "height": 700,
+    "alt": "Chậu sen đá xanh mướt mầm xinh 🪴",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHhAAAgEEAwEAAAAAAAAAAAAAAQIDAAQRQSExYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxEx/9oADAMBAAIRAxEAPwByWZV3Umuozwcj2j5ZrWQkm8cjPASPX2s7TWwZsvKQcdKAfd0Crb6NsT//2Q==",
+    "caption": "Chậu sen đá xanh mướt mầm xinh 🪴",
+    "date": "2026-03-07",
+    "tags": [
+      "plants",
+      "green",
+      "succulent"
+    ]
+  },
+  {
+    "id": "photo-08",
+    "src": "/images/gallery/photo-08.jpg",
+    "width": 780,
+    "height": 780,
+    "alt": "Trang nhật ký dán sticker pastel 🎀",
+    "color": "#183838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEE/8QAIRABAAEDAwUBAAAAAAAAAAAAAQIAAxESIYEEEzFBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFhEAAwAAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwBQddkjN0MHTIftBLc7TAlvEznOdj3WK/1dxOzJJQMPjd5qF9klsMQ/crzRQOn/2Q==",
+    "caption": "Trang nhật ký dán sticker pastel 🎀",
+    "date": "2026-03-08",
+    "tags": [
+      "journal",
+      "stickers",
+      "cute"
+    ]
+  },
+  {
+    "id": "photo-09",
+    "src": "/images/gallery/photo-09.jpg",
+    "width": 720,
+    "height": 720,
+    "alt": "Nến thơm mùi gỗ ấm và hoa nhài 🕯️",
+    "color": "#585838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMAERIhBDETInGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCadlnxZCya2b5aolTFgHlQoTfYNqXkiGKLzRyAe4UqOiQNkftGk3GsbuzluwF18qRf/9k=",
+    "caption": "Nến thơm mùi gỗ ấm và hoa nhài 🕯️",
+    "date": "2026-03-09",
+    "tags": [
+      "candle",
+      "scent",
+      "relax"
+    ]
+  },
+  {
+    "id": "photo-10",
+    "src": "/images/gallery/photo-10.jpg",
+    "width": 800,
+    "height": 800,
+    "alt": "Ly cà phê kem béo một sáng thảnh thơi ☕",
+    "color": "#c8c8c8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIRAAAgIABQUAAAAAAAAAAAAAAQIAAwQFESEiMTJRcYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A1Kks6s6geItQp7iZCtmAYcmsX2TEFy87rYT9wP/Z",
+    "caption": "Ly cà phê kem béo một sáng thảnh thơi ☕",
+    "date": "2026-03-10",
+    "tags": [
+      "coffee",
+      "cafe",
+      "gentle"
+    ]
+  },
+  {
+    "id": "photo-11",
+    "src": "/images/gallery/photo-11.jpg",
+    "width": 700,
+    "height": 700,
+    "alt": "Cuộn len màu phấn đan dở buổi chiều 🧶",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EAB0QAAICAwADAAAAAAAAAAAAAAECAAMEESEiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANEoOtkwl1X2IEljMsvqDVWCoofNXAPI1ccFNWWi3fe/ZR//2Q==",
+    "caption": "Cuộn len màu phấn đan dở buổi chiều 🧶",
+    "date": "2026-03-11",
+    "tags": [
+      "knitting",
+      "craft",
+      "hobby"
+    ]
+  },
+  {
+    "id": "photo-12",
+    "src": "/images/gallery/photo-12.jpg",
+    "width": 750,
+    "height": 750,
+    "alt": "Hộp bánh macaron sắc màu xinh xắn 🍪",
+    "color": "#7898a8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEC/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAEQMhBBJRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AmSxkSjog2KiqAw1Dc1yEHiEzW1PZPtQ2xkK6T//Z",
+    "caption": "Hộp bánh macaron sắc màu xinh xắn 🍪",
+    "date": "2026-03-12",
+    "tags": [
+      "macaron",
+      "pastel",
+      "yummy"
+    ]
+  },
+  {
+    "id": "photo-13",
+    "src": "/images/gallery/photo-13.jpg",
+    "width": 600,
+    "height": 800,
+    "alt": "Góc phố cũ rợp bóng cây xanh 🌿",
+    "color": "#b8b8b8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAVABADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwX/xAAgEAEAAQMEAwEAAAAAAAAAAAABAgADEQQSITEFEzJR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECMQMRIf/aAAwDAQACEQMRAD8A5UZXYu135z1jmr9Qevx3tPpAP3NIt27kwLQMuOFrbWaW3ZIpAlHGHK91LI0E4Rl3Q9BbGe9fnoqq+E7TFOGiisVCKj//2Q==",
+    "caption": "Góc phố cũ rợp bóng cây xanh 🌿",
+    "date": "2026-03-13",
+    "tags": [
+      "street",
+      "green",
+      "city"
+    ]
+  },
+  {
+    "id": "photo-14",
+    "src": "/images/gallery/photo-14.jpg",
+    "width": 600,
+    "height": 800,
+    "alt": "Quyển sách đọc dở dưới ánh đèn vàng 📖",
+    "color": "#d8d8d8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAVABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAhEAABAwMEAwAAAAAAAAAAAAABAAIRAxIxBRQhUTJBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAESQf/aAAwDAQACEQMRAD8AcABXFvaRjUHkeY+I39SMgx0EW7S5jDSplwvD4EYIn0pa5waBOc8IQh7VP//Z",
+    "caption": "Quyển sách đọc dở dưới ánh đèn vàng 📖",
+    "date": "2026-03-14",
+    "tags": [
+      "book",
+      "reading",
+      "night"
+    ]
+  },
+  {
+    "id": "photo-15",
+    "src": "/images/gallery/photo-15.jpg",
+    "width": 640,
+    "height": 800,
+    "alt": "Những cánh hồng nhung e ấp trong sương 🌹",
+    "color": "#b8b8c8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EAB0QAAICAwADAAAAAAAAAAAAAAECAAMREiEEMaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAwDAQACEQMRAD8AtS2sjkSzyK1ZVx1pJsgGO5mVlxVgwYnvowapSQjnDHAEntY7fYQkif/Z",
+    "caption": "Những cánh hồng nhung e ấp trong sương 🌹",
+    "date": "2026-03-15",
+    "tags": [
+      "rose",
+      "romantic",
+      "soft"
+    ]
+  },
+  {
+    "id": "photo-16",
+    "src": "/images/gallery/photo-16.jpg",
+    "width": 600,
+    "height": 750,
+    "alt": "Ô cửa kính mờ hơi nước ngày mưa phùn 🌧️",
+    "color": "#d8d8e8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBP/EABwQAQABBAMAAAAAAAAAAAAAAAACARESExQxUf/EABYBAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/ALeRk5t9DkROoZU7ZL1is5X7BjWf/9k=",
+    "caption": "Ô cửa kính mờ hơi nước ngày mưa phùn 🌧️",
+    "date": "2026-03-16",
+    "tags": [
+      "rain",
+      "window",
+      "mood"
+    ]
+  },
+  {
+    "id": "photo-17",
+    "src": "/images/gallery/photo-17.jpg",
+    "width": 640,
+    "height": 800,
+    "alt": "Panna cotta mềm mịn sốt quả mọng 🍮",
+    "color": "#584848",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAgEAABBAICAwEAAAAAAAAAAAABAAIDESExElETIoFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCZpfLM8nTPz7hZpfZpsCjnSZJDLBIXOFA/bSnE54s2NIaZ8Er3M4uNjoq8sjs3RPdZQhG0K//Z",
+    "caption": "Panna cotta mềm mịn sốt quả mọng 🍮",
+    "date": "2026-03-17",
+    "tags": [
+      "dessert",
+      "berry",
+      "sweet"
+    ]
+  },
+  {
+    "id": "photo-18",
+    "src": "/images/gallery/photo-18.jpg",
+    "width": 600,
+    "height": 800,
+    "alt": "Chiếc xe đạp giỏ đầy hoa dại ven đường 🚲",
+    "color": "#182818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAVABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EACIQAAICAQQBBQAAAAAAAAAAAAECAxEABBITISMxMkFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAIBBQAAAAAAAAAAAAAAAAABMQIREiEi/9oADAMBAAIRAxEAPwCUkSNME0zcgAu/nHUs3iYHsH3NVfuU0qLpY9q0XPZJx5Z4pQVkRX+z65mdfVxYaM/leR1s1uOJIp3M4atvVYYYoZZR/9k=",
+    "caption": "Chiếc xe đạp giỏ đầy hoa dại ven đường 🚲",
+    "date": "2026-03-18",
+    "tags": [
+      "bike",
+      "vintage",
+      "wander"
+    ]
+  },
+  {
+    "id": "photo-19",
+    "src": "/images/gallery/photo-19.jpg",
+    "width": 640,
+    "height": 800,
+    "alt": "Cúc hoạ mi trắng tinh khôi giữa phố 🌼",
+    "color": "#080808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EACQQAAIBAwIGAwAAAAAAAAAAAAECABEhUTJCAxITIjFBcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AjqbDyQO05E0Gy3ttODiKFOkNfUhjgc19rahg5mJTgk8Fj7VhT7r+RmduqmHUVHzCEU//2Q==",
+    "caption": "Cúc hoạ mi trắng tinh khôi giữa phố 🌼",
+    "date": "2026-03-19",
+    "tags": [
+      "daisy",
+      "white",
+      "pure"
+    ]
+  },
+  {
+    "id": "photo-20",
+    "src": "/images/gallery/photo-20.jpg",
+    "width": 600,
+    "height": 750,
+    "alt": "Góc bàn nhỏ thân thuộc nơi quán quen 🪑",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBv/EACEQAAEEAQMFAAAAAAAAAAAAAAEAAgMRBAUSMSMzQVGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAwDAQACEQMRAD8A0Uc0cjA9jw5p4ITbm+wsRFk5GP2ZnAc0CqBrOTQDiDX1FSOUUzd5ukhHTLuChCQ//9k=",
+    "caption": "Góc bàn nhỏ thân thuộc nơi quán quen 🪑",
+    "date": "2026-03-20",
+    "tags": [
+      "cafe",
+      "corner",
+      "chill"
+    ]
+  },
+  {
+    "id": "photo-21",
+    "src": "/images/gallery/photo-21.jpg",
+    "width": 600,
+    "height": 800,
+    "alt": "Tự tay nặn một chiếc đĩa gốm mộc mạc 🏺",
+    "color": "#e8e8e8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAVABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACEQAAIBAwQDAQAAAAAAAAAAAAECBAADEQUTITESUWFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AK9OiXV3LdxGW264YEUmZp20rHChF7YnAxV2mSbkhWLHIH79p06ykiOyOuR3x2PtITgiDCRbYzgcn2fdZsy3acbJHHjnNFFIf//Z",
+    "caption": "Tự tay nặn một chiếc đĩa gốm mộc mạc 🏺",
+    "date": "2026-03-21",
+    "tags": [
+      "pottery",
+      "craft",
+      "handmade"
+    ]
+  },
+  {
+    "id": "photo-22",
+    "src": "/images/gallery/photo-22.jpg",
+    "width": 640,
+    "height": 800,
+    "alt": "Thảm picnic chiều chủ nhật ngập nắng 🧺",
+    "color": "#282808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQACAxEhBAUSEyIxMkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEUFR/9oADAMBAAIRAxEAPwDDWxcZGAO+QzeKQyCC4EXYpJ3CTt1IfHG4N4gAfdo0kczG8nxPaDWSFGcI0aew+QBr8StU0R7fbfeFKTVMf//Z",
+    "caption": "Thảm picnic chiều chủ nhật ngập nắng 🧺",
+    "date": "2026-03-22",
+    "tags": [
+      "picnic",
+      "weekend",
+      "happy"
+    ]
+  },
+  {
+    "id": "photo-23",
+    "src": "/images/gallery/photo-23.jpg",
+    "width": 600,
+    "height": 750,
+    "alt": "Góc gương nhỏ phản chiếu nụ cười 🪞",
+    "color": "#c8c8b8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAUABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAhEAABBAEDBQAAAAAAAAAAAAABAAIDIQQREnETMUGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAjH/2gAMAwEAAhEDEQA/AGJ8IN7JOTHI8LTmkmYNTGw8OJ+JF+W7dbYwPZUasSj1XigaVcribOh5QhAdlb//2Q==",
+    "caption": "Góc gương nhỏ phản chiếu nụ cười 🪞",
+    "date": "2026-03-23",
+    "tags": [
+      "mirror",
+      "aesthetic",
+      "selfcare"
+    ]
+  },
+  {
+    "id": "photo-24",
+    "src": "/images/gallery/photo-24.jpg",
+    "width": 600,
+    "height": 800,
+    "alt": "Bản vẽ màu nước còn ướt nét cọ 🎨",
+    "color": "#085868",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAVABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABBf/EACAQAAEEAQQDAAAAAAAAAAAAAAEAAgMRMQQSEyFBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABcRAQEBAQAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AObsWhifqoIYIw/kabvyEYOdTSIrB+q3UEmNUSRzhRcQ710kQ95vGFKRjX//2Q==",
+    "caption": "Bản vẽ màu nước còn ướt nét cọ 🎨",
+    "date": "2026-03-24",
+    "tags": [
+      "art",
+      "watercolor",
+      "painting"
+    ]
+  },
+  {
+    "id": "photo-25",
+    "src": "/images/gallery/photo-25.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Hoàng hôn nhuộm sắc tím mơ màng 🌆",
+    "color": "#382818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBf/EACIQAAICAQQBBQAAAAAAAAAAAAECABEDEhMhMSIjQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAADH/2gAMAwEAAhEDEQA/AOY66lRgjAt0KkmoLdH6uW3cmTFiGRi2liAp9uoOL0XdW5BIYfHciLQ3DYs8XMfLZOnjyJ/RERD/2Q==",
+    "caption": "Hoàng hôn nhuộm sắc tím mơ màng 🌆",
+    "date": "2026-03-25",
+    "tags": [
+      "sunset",
+      "purple",
+      "twilight"
+    ]
+  },
+  {
+    "id": "photo-26",
+    "src": "/images/gallery/photo-26.jpg",
+    "width": 540,
+    "height": 960,
+    "alt": "Đám mây hình trái tim trôi ngang trời ☁️",
+    "color": "#181808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAcABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFAP/EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAEERIxFCFBIiNRUoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiFR/9oADAMBAAIRAxEAPwCICMj7D5plAAmzEgecDxQpoJIpyrgj1Hiql3Aos5dB304FZ9akXpTOLQ4VJFAmUBsksSRjNEuZVZMWq+4eDsCBTnTwnCmJMY4xWFjar3W3QflDSfRq0f/Z",
+    "caption": "Đám mây hình trái tim trôi ngang trời ☁️",
+    "date": "2026-03-26",
+    "tags": [
+      "clouds",
+      "heart",
+      "sky"
+    ]
+  },
+  {
+    "id": "photo-27",
+    "src": "/images/gallery/photo-27.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Cầu thang xoắn ốc cổ điển tràn ngập nắng 🪜",
+    "color": "#183838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EAB8QAAICAQQDAAAAAAAAAAAAAAECABEDBBMhMRJRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/ALDEEWO/cU5BHYkDHqttH3PN8h4Wm4EduYlc2RlHZBJNfI7AWk1mLNZmjSqjK7uaC1QurJhCFkyun//Z",
+    "caption": "Cầu thang xoắn ốc cổ điển tràn ngập nắng 🪜",
+    "date": "2026-03-27",
+    "tags": [
+      "stairs",
+      "architecture",
+      "light"
+    ]
+  },
+  {
+    "id": "photo-28",
+    "src": "/images/gallery/photo-28.jpg",
+    "width": 640,
+    "height": 960,
+    "alt": "Bóng lá in trên bức tường vôi trắng 🍃",
+    "color": "#d8d8d8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFAf/EAB4QAAICAQUBAAAAAAAAAAAAAAECABEDEjEyQXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AsB8dc1+iFqdiD4ZFV8BaqexNY4+tQ8MlKFpKsERGYWRcIQm//9k=",
+    "caption": "Bóng lá in trên bức tường vôi trắng 🍃",
+    "date": "2026-03-28",
+    "tags": [
+      "shadow",
+      "minimal",
+      "aesthetic"
+    ]
+  },
+  {
+    "id": "photo-29",
+    "src": "/images/gallery/photo-29.jpg",
+    "width": 540,
+    "height": 960,
+    "alt": "Bờ biển êm sóng vỗ về sớm bình minh 🌊",
+    "color": "#e8e8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAcABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFAv/EACIQAAEEAAUFAAAAAAAAAAAAAAEAAgMRBBITITEFInGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/ALoO9I2lY5p9FrpIbkPLWnj6ta0lkaDvOYJJqbF1pj5WsMJGbYU61TJNbEe0hgsJDBE1zG9zhZJTdlKRn1cr/9k=",
+    "caption": "Bờ biển êm sóng vỗ về sớm bình minh 🌊",
+    "date": "2026-03-01",
+    "tags": [
+      "sea",
+      "beach",
+      "morning"
+    ]
+  },
+  {
+    "id": "photo-30",
+    "src": "/images/gallery/photo-30.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Con đường mòn rợp bóng thông xanh 🌲",
+    "color": "#080808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQACAxESBCEiBRUyQVFhgsH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANd0spPBkdfJKW6XVX4wV9lWk6pBDIIy5t+tDYKPdtO661DdjXiimOexY2Q5Oyomw0fqQ8tL+IxB9yhCQ//Z",
+    "caption": "Con đường mòn rợp bóng thông xanh 🌲",
+    "date": "2026-03-02",
+    "tags": [
+      "nature",
+      "forest",
+      "calm"
+    ]
+  },
+  {
+    "id": "photo-31",
+    "src": "/images/gallery/photo-31.jpg",
+    "width": 640,
+    "height": 960,
+    "alt": "Tấm rèm voan trắng bay nhẹ theo gió 🎐",
+    "color": "#081828",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EAB0QAAIDAAIDAAAAAAAAAAAAAAECAAMREiEEBRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8Ag9d5SUg/UnAM6G9Q9j5SW58icIzsZ1GC0JZW3AKuYQGOmK1Vdju6hCu4OROiKk1KjFmDMdJIE1nZW5IcIJEISj//2Q==",
+    "caption": "Tấm rèm voan trắng bay nhẹ theo gió 🎐",
+    "date": "2026-03-03",
+    "tags": [
+      "breeze",
+      "soft",
+      "white"
+    ]
+  },
+  {
+    "id": "photo-32",
+    "src": "/images/gallery/photo-32.jpg",
+    "width": 540,
+    "height": 960,
+    "alt": "Cây đàn guitar gỗ tựa góc tường 🎸",
+    "color": "#c8c8b8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAcABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQIABP/EACEQAAIBBAICAwAAAAAAAAAAAAECEQADBCESQQUiQrHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AGldlWTqoe8StYgxRubkOL/BWhbcGAJLN1WVdmXkrjWHuMQeImOzQ2RlB+d0+pcGAPjr71up8xecXAoiGG9UY9xmJk9flIP/2Q==",
+    "caption": "Cây đàn guitar gỗ tựa góc tường 🎸",
+    "date": "2026-03-04",
+    "tags": [
+      "music",
+      "guitar",
+      "acoustic"
+    ]
+  },
+  {
+    "id": "photo-33",
+    "src": "/images/gallery/photo-33.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Ghé tiệm hoa mua chút yêu thương 💐",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgMF/8QAIBAAAgIBAwUAAAAAAAAAAAAAAAECAxEEEnEFEyExQf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AYFOJbchPjrrYLPca5ZrR1S51rdYnL6w6cjly8rgmtPHoAKUR/9k=",
+    "caption": "Ghé tiệm hoa mua chút yêu thương 💐",
+    "date": "2026-03-05",
+    "tags": [
+      "flowershop",
+      "blossom",
+      "sweet"
+    ]
+  },
+  {
+    "id": "photo-34",
+    "src": "/images/gallery/photo-34.jpg",
+    "width": 540,
+    "height": 960,
+    "alt": "Ngọn hải đăng đứng lặng giữa biển trời 🗼",
+    "color": "#98a898",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAcABADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABAACA//EACIQAAICAQQBBQAAAAAAAAAAAAECAxEABBIhYSIyQVGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECEv/aAAwDAQACEQMRAD8AFHp3Hp46OKjVVUsycj2+cTEh2jcBXeZ8TyWpAjU8dnH0nkTVys6bIvEMay8ahYEC2BQod4MMSyj6xqkhY64uvzAeX//Z",
+    "caption": "Ngọn hải đăng đứng lặng giữa biển trời 🗼",
+    "date": "2026-03-06",
+    "tags": [
+      "lighthouse",
+      "ocean",
+      "peace"
+    ]
+  },
+  {
+    "id": "photo-35",
+    "src": "/images/gallery/photo-35.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Ban công nhỏ ngắm nhìn thành phố lên đèn 🌃",
+    "color": "#383828",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EACEQAQACAgEDBQAAAAAAAAAAAAECAwARBBIhURMiQXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAAMAAAAAAAAAAAAAAAAAAREhQf/aAAwDAQACEQMRAD8AjI9Vk++gdfmJdDUF+seEbPRLK0WS7PGbft4sp2dpsgA8YOlnS2zi1Sl7rLTfwoGIcKtrRsmR3vXUO8MMdSP/2Q==",
+    "caption": "Ban công nhỏ ngắm nhìn thành phố lên đèn 🌃",
+    "date": "2026-03-07",
+    "tags": [
+      "citylights",
+      "night",
+      "balcony"
+    ]
+  },
+  {
+    "id": "photo-36",
+    "src": "/images/gallery/photo-36.jpg",
+    "width": 600,
+    "height": 900,
+    "alt": "Lối nhỏ dẫn vào khu vườn cổ tích 🌸",
+    "color": "#181808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACMQAAEDAgUFAAAAAAAAAAAAAAEAAhEDMQQFEiGRIjJSgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCxTFDyHCcG0Y7gsmMWW7anH2mDMSGz1crPaeRLD4+oDpiLCyEKg//Z",
+    "caption": "Lối nhỏ dẫn vào khu vườn cổ tích 🌸",
+    "date": "2026-03-08",
+    "tags": [
+      "garden",
+      "fairy",
+      "flowers"
+    ]
+  },
+  {
+    "id": "photo-37",
+    "src": "/images/gallery/photo-37.jpg",
+    "width": 800,
+    "height": 600,
+    "alt": "Bữa brunch nhẹ nhàng cùng người thương 🥞",
+    "color": "#c8b8a8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAQMEAQUAAAAAAAAAAAAAAQACBAMRISITJFGBktH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEv/aAAwDAQACEQMRAD8AVSlU7axn+wV2ycDpH+Ht+rMibHKcTx2sBnujuhiT/9k=",
+    "caption": "Bữa brunch nhẹ nhàng cùng người thương 🥞",
+    "date": "2026-03-09",
+    "tags": [
+      "brunch",
+      "pancake",
+      "weekend"
+    ]
+  },
+  {
+    "id": "photo-38",
+    "src": "/images/gallery/photo-38.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Bàn làm việc ngăn nắp ấm cúng 💻",
+    "color": "#383838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAHxAAAQQCAgMAAAAAAAAAAAAAAQACAxEEEgUhQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ABxck+KIsiFvNfEfKmkkbb6vzQ6VG0DRwHewF+lrKA1Qf//Z",
+    "caption": "Bàn làm việc ngăn nắp ấm cúng 💻",
+    "date": "2026-03-10",
+    "tags": [
+      "workspace",
+      "desksetup",
+      "cozy"
+    ]
+  },
+  {
+    "id": "photo-39",
+    "src": "/images/gallery/photo-39.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Mặt hồ phẳng lặng phản chiếu bầu trời xanh 🏞️",
+    "color": "#484858",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQF/8QAHRABAQACAQUAAAAAAAAAAAAAAQIAAxIhMVFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AIYko6I+sLjM+aqHlKieMXfte919y0f/2Q==",
+    "caption": "Mặt hồ phẳng lặng phản chiếu bầu trời xanh 🏞️",
+    "date": "2026-03-11",
+    "tags": [
+      "lake",
+      "nature",
+      "reflections"
+    ]
+  },
+  {
+    "id": "photo-40",
+    "src": "/images/gallery/photo-40.jpg",
+    "width": 800,
+    "height": 600,
+    "alt": "Thảm cỏ xanh công viên sớm mai 🍀",
+    "color": "#282818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAHRABAAICAgMAAAAAAAAAAAAAAQADAhEEISIxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ax8G0pyUN+KdweRkOShog1rsN/JLF9SR//9k=",
+    "caption": "Thảm cỏ xanh công viên sớm mai 🍀",
+    "date": "2026-03-12",
+    "tags": [
+      "park",
+      "fresh",
+      "morning"
+    ]
+  },
+  {
+    "id": "photo-41",
+    "src": "/images/gallery/photo-41.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Mẻ bánh quy yến mạch vừa ra lò thơm phức 🍪",
+    "color": "#082828",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEC/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIAAwURIVGRBBITQXL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwA63YKg7en1+plrrUZseKmi7nJgAdPXEhOduIqK/9k=",
+    "caption": "Mẻ bánh quy yến mạch vừa ra lò thơm phức 🍪",
+    "date": "2026-03-13",
+    "tags": [
+      "cookies",
+      "baking",
+      "homemade"
+    ]
+  },
+  {
+    "id": "photo-42",
+    "src": "/images/gallery/photo-42.jpg",
+    "width": 800,
+    "height": 600,
+    "alt": "Bàn trà nhỏ bày biện ấm áp đón bạn thân 🫖",
+    "color": "#080808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQMCAAQhERIxQRNRUnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEh/9oADAMBAAIRAxEAPwCI2O68XGKIFONzBjUd0XVtZpjNUZlgHB+T+90suGIV5FSMZHOvqsqbZknPNFUTh//Z",
+    "caption": "Bàn trà nhỏ bày biện ấm áp đón bạn thân 🫖",
+    "date": "2026-03-14",
+    "tags": [
+      "teatime",
+      "friends",
+      "cozy"
+    ]
+  },
+  {
+    "id": "photo-43",
+    "src": "/images/gallery/photo-43.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Kệ sách gỗ phủ đầy những cuốn tiểu thuyết 📚",
+    "color": "#686868",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABP/EAB4QAQABBAIDAAAAAAAAAAAAAAECAAMEESExEzJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwA0JSMmyxdaX5vfFCyVuRJy9pdmuqdEPJbdc0TJiF+5ENAoFEo//9k=",
+    "caption": "Kệ sách gỗ phủ đầy những cuốn tiểu thuyết 📚",
+    "date": "2026-03-15",
+    "tags": [
+      "books",
+      "library",
+      "silence"
+    ]
+  },
+  {
+    "id": "photo-44",
+    "src": "/images/gallery/photo-44.jpg",
+    "width": 800,
+    "height": 600,
+    "alt": "Ngôi nhà nhỏ ven bìa rừng yên tĩnh 🏡",
+    "color": "#b8b8a8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAED/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACAxFBBBIiMVEh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARIT/9oADAMBAAIRAxEAPwBoMbRYNH20R+sjkn2uY7PIj4tIcjoDwdqTGuOFHSTo/9k=",
+    "caption": "Ngôi nhà nhỏ ven bìa rừng yên tĩnh 🏡",
+    "date": "2026-03-16",
+    "tags": [
+      "cottage",
+      "peace",
+      "warmth"
+    ]
+  },
+  {
+    "id": "photo-45",
+    "src": "/images/gallery/photo-45.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Mặt trời lặn chậm rãi trên mặt biển 🌅",
+    "color": "#281818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACEQAAIBAwMFAAAAAAAAAAAAAAECAwAEMQUREhMyQVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAhEh/9oADAMBAAIRAxEAPwAWOPqMqDubH31SdtocxXnKCh8Lk0SpIIIpC3v7octpmxQalF0//9k=",
+    "caption": "Mặt trời lặn chậm rãi trên mặt biển 🌅",
+    "date": "2026-03-17",
+    "tags": [
+      "sunset",
+      "seaside",
+      "golden"
+    ]
+  },
+  {
+    "id": "photo-46",
+    "src": "/images/gallery/photo-46.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Chuyến tàu sớm đưa mình đi xa 🚂",
+    "color": "#f8f8f8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EAB8QAAICAgEFAAAAAAAAAAAAAAECABEDBVEEEiFBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AKT7zpFIAYt9jYttgyLd+ePcxyQLN2k2b5jBdf/Z",
+    "caption": "Chuyến tàu sớm đưa mình đi xa 🚂",
+    "date": "2026-03-18",
+    "tags": [
+      "travel",
+      "train",
+      "journey"
+    ]
+  },
+  {
+    "id": "photo-47",
+    "src": "/images/gallery/photo-47.jpg",
+    "width": 800,
+    "height": 600,
+    "alt": "Cánh đồng cỏ lau đung đưa trong gió chiều 🌾",
+    "color": "#787878",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIEAAMhERITBSIxQWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ADhXEvIpJO7GvrzUXZPBJKKgdh3DGQP2jhxrd6QLZBVWOh2/DW83SYyoSOQEDTDmg//Z",
+    "caption": "Cánh đồng cỏ lau đung đưa trong gió chiều 🌾",
+    "date": "2026-03-19",
+    "tags": [
+      "meadow",
+      "wind",
+      "autumn"
+    ]
+  },
+  {
+    "id": "photo-48",
+    "src": "/images/gallery/photo-48.jpg",
+    "width": 900,
+    "height": 600,
+    "alt": "Góc phòng triển lãm tranh tĩnh lặng 🖼️",
+    "color": "#282828",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAID/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAEISITYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDGPa2JEkjPcXQA4r5kiYNKEcOOoU81iZkVNSZ1FMTV+icHtSOnjCsQCnNYYeP/2Q==",
+    "caption": "Góc phòng triển lãm tranh tĩnh lặng 🖼️",
+    "date": "2026-03-20",
+    "tags": [
+      "gallery",
+      "art",
+      "museum"
+    ]
+  },
+  {
+    "id": "photo-49",
+    "src": "/images/gallery/photo-49.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Chân trời rực rỡ sắc cầu vồng sau cơn mưa 🌈",
+    "color": "#080808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACEQAAIBAwMFAAAAAAAAAAAAAAECEQADIQVRcQQTFCMx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJ7WpX+7cLIrCJUAY45p7apcXplfxfZOQGMAb1lKSFBBIMnNGrMQZY/d6Ij/2Q==",
+    "caption": "Chân trời rực rỡ sắc cầu vồng sau cơn mưa 🌈",
+    "date": "2026-03-21",
+    "tags": [
+      "rainbow",
+      "horizon",
+      "hope"
+    ]
+  },
+  {
+    "id": "photo-50",
+    "src": "/images/gallery/photo-50.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Dãy núi trập trùng ẩn hiện giữa làn sương mây ⛰️",
+    "color": "#a8a898",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAHRAAAgEFAQEAAAAAAAAAAAAAAQIDAAQREiEiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDPJcyvKUIIHddeZpYrZHlWaVnVkxqCaoAAqYAHqjk83DEc9fKkOs2//9k=",
+    "caption": "Dãy núi trập trùng ẩn hiện giữa làn sương mây ⛰️",
+    "date": "2026-03-22",
+    "tags": [
+      "mountains",
+      "fog",
+      "nature"
+    ]
+  },
+  {
+    "id": "photo-51",
+    "src": "/images/gallery/photo-51.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Bầu trời đêm đầy sao lấp lánh như ngàn điều ước ✨",
+    "color": "#484848",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EABsQAAIDAQEBAAAAAAAAAAAAAAECAAMRMRKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDPQuvbH+x3usaogXOARkmBPnpgtJzNlH//2Q==",
+    "caption": "Bầu trời đêm đầy sao lấp lánh như ngàn điều ước ✨",
+    "date": "2026-03-23",
+    "tags": [
+      "stars",
+      "nightsky",
+      "dream"
+    ]
+  },
+  {
+    "id": "photo-52",
+    "src": "/images/gallery/photo-52.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Cung đường ven biển lộng gió 🌊",
+    "color": "#d8d8e8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACEQAAEDBAEFAAAAAAAAAAAAAAIAAQMREyEiBCMxUYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCzeEm6Zi/tBDliUzxE+1adqLORmWdn+pmCQ7rblh/KUj//2Q==",
+    "caption": "Cung đường ven biển lộng gió 🌊",
+    "date": "2026-03-24",
+    "tags": [
+      "roadtrip",
+      "coastal",
+      "freedom"
+    ]
+  },
+  {
+    "id": "photo-53",
+    "src": "/images/gallery/photo-53.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Cây cầu gỗ bắc qua dòng suối nhỏ trong veo 🪵",
+    "color": "#180808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8QAQEAAgICAwEAAAAAAAAAAAECAxEABCFhEhMxUf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAMAwEAAhEDEQA/AA6mQKJxfVMvn5VO09b/ALxHftydgcYZa3podp65LVOqNuj8OaEzM9NqQFryhw1hkld//9k=",
+    "caption": "Cây cầu gỗ bắc qua dòng suối nhỏ trong veo 🪵",
+    "date": "2026-03-25",
+    "tags": [
+      "stream",
+      "bridge",
+      "peace"
+    ]
+  },
+  {
+    "id": "photo-54",
+    "src": "/images/gallery/photo-54.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Vườn hoa hướng dương ngập tràn năng lượng 🌻",
+    "color": "#586868",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAdEAABBAIDAAAAAAAAAAAAAAABAAIDESExBCJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIRAxEAPwAcUtBvlJMnMyCTfWtoDNBTKcpGEv/Z",
+    "caption": "Vườn hoa hướng dương ngập tràn năng lượng 🌻",
+    "date": "2026-03-26",
+    "tags": [
+      "sunflower",
+      "bright",
+      "energy"
+    ]
+  },
+  {
+    "id": "photo-55",
+    "src": "/images/gallery/photo-55.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Thung lũng ngập tràn sương sớm thơ mộng 🌫️",
+    "color": "#c8d8e8",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAEEAgEFAAAAAAAAAAAAAAEAAgMRBAUSJDFysdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCtuywWxlwluhdUfiMbPAewOEvcXXErPlcRA4Ami0+kzDPQQ+IVUP/Z",
+    "caption": "Thung lũng ngập tràn sương sớm thơ mộng 🌫️",
+    "date": "2026-03-27",
+    "tags": [
+      "valley",
+      "mist",
+      "calm"
+    ]
+  },
+  {
+    "id": "photo-56",
+    "src": "/images/gallery/photo-56.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Hàng cây ngân hạnh lá vàng rực rỡ 🍂",
+    "color": "#282818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAEAAQMDBQAAAAAAAAAAAAABAgADBBETMSEiMkFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AjwstthHcIkn2Ul+7pGXfKQfaPJDbOhzQzXZ5fJoKpLL/2Q==",
+    "caption": "Hàng cây ngân hạnh lá vàng rực rỡ 🍂",
+    "date": "2026-03-28",
+    "tags": [
+      "autumn",
+      "yellow",
+      "leaves"
+    ]
+  },
+  {
+    "id": "photo-57",
+    "src": "/images/gallery/photo-57.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Lều trại bên đống lửa sưởi ấm đêm lạnh ⛺",
+    "color": "#383838",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAHBAAAQUAAwAAAAAAAAAAAAAAAQACAwQRMVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AJVnc3mQ+BatXZXnAcGZ2hBWpkH//2Q==",
+    "caption": "Lều trại bên đống lửa sưởi ấm đêm lạnh ⛺",
+    "date": "2026-03-01",
+    "tags": [
+      "camping",
+      "campfire",
+      "cozy"
+    ]
+  },
+  {
+    "id": "photo-58",
+    "src": "/images/gallery/photo-58.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Cánh đồng hoa oải hương tím biếc bát ngát 🪻",
+    "color": "#282818",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAEAAQMDBQAAAAAAAAAAAAABAgADBBETMSEiMkFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8AjwstthHcIkn2Ul+7pGXfKQfaPJDbOhzQzXZ5fJoKpLL/2Q==",
+    "caption": "Cánh đồng hoa oải hương tím biếc bát ngát 🪻",
+    "date": "2026-03-02",
+    "tags": [
+      "lavender",
+      "purple",
+      "field"
+    ]
+  },
+  {
+    "id": "photo-59",
+    "src": "/images/gallery/photo-59.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Biển mây bồng bềnh lúc bình minh trên đỉnh núi ☁️",
+    "color": "#180808",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAgEAACAgIBBQEAAAAAAAAAAAABAgMRACExBAUTUYHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwAYnmkAZ1hABJVgbsjRocHEkIERVWKvVm10fzJMRqWNho+Tn7lLu6hOjDIApLjY17yapykOq1H/2Q==",
+    "caption": "Biển mây bồng bềnh lúc bình minh trên đỉnh núi ☁️",
+    "date": "2026-03-03",
+    "tags": [
+      "clouds",
+      "sunrise",
+      "magical"
+    ]
+  },
+  {
+    "id": "photo-60",
+    "src": "/images/gallery/photo-60.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "Ánh chiều tà dần buông xuống con phố nhỏ 🌆",
+    "color": "#987848",
+    "blurDataUrl": "data:image/jpeg;base64,/9j/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wAARCAAKABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAfEAACAQQCAwAAAAAAAAAAAAABAgADBBEhEyIxM0H/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECIf/aAAwDAQACEQMRAD8AnbciqCjFQfmYireFc09nrsk7h09YhronnXZ8Q9N1giElp//Z",
+    "caption": "Ánh chiều tà dần buông xuống con phố nhỏ 🌆",
+    "date": "2026-03-04",
+    "tags": [
+      "twilight",
+      "evening",
+      "peaceful"
+    ]
+  }
+]
